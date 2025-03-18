@@ -1,6 +1,6 @@
 console.log("Hello");
 console.log(5+6);
-console.log(11/2);
+
 console.log(29+3.5);
 console.log(2025-1969);
 console.log ('Oneika')
