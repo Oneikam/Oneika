@@ -19,7 +19,7 @@ console.log(favoriteFood,numOfSlices);
 
 let meal='curry';
 console.log(meal);//value is constant 
-meal='pizza'; //value can be changed
+
 console.log(meal);
 console.log("Hello World");
 
