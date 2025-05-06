@@ -22,4 +22,8 @@ console.log(meal);//value is constant
 
 console.log(meal);
 console.log("Hello World");
+let button = document.getElementById("btnHi");
+button.addEventListener("click", function(e) {
+    alert("Hi there!");
+});
 
