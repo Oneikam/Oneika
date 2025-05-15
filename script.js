@@ -35,6 +35,7 @@ button.addEventListener("click", function(e) {
 <link rel="stylesheet" href="index.css"> 
 </head> 
 <body> 
+<p> 
 <div class="container"> 
 <h1>SOCS<h1> 
 <h2> Currency Calculator</h2> <br> 
@@ -173,3 +174,4 @@ false;//document.getElementsByName("transaction").values();
  console.log(value); 
  ConvertCurV2(amount, from, to, isBuy); 
 }); 
+</p>
